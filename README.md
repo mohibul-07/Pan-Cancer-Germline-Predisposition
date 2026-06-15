@@ -4,7 +4,7 @@
 
 A pan-cancer analysis of inherited pathogenic variants across 44 cancer predisposition genes and 9 cancer types, using germline whole genome sequencing data from the NIH All of Us Research Program. This work extends the methodology of [Huang et al. (Cell, 2018)](https://doi.org/10.1016/j.cell.2018.03.039) to a larger, more ancestrally diverse cohort.
 
-**Live Dashboard:** [pan-cancer-germline-predisposition.vercel.app](https://pan-cancer-germline-predisposition.vercel.app)
+**Live Dashboard:** [germline-predisposition.vercel.app](https://germline-predisposition.vercel.app)
 
 ---
 
@@ -172,7 +172,7 @@ Each of Huang et al.'s 21 reported gene-cancer associations was checked for repl
 
 ### Viewing the Results
 
-The easiest way to explore the results is through the [live dashboard](https://pan-cancer-germline-predisposition.vercel.app). It includes an overview of the study, interactive results tables with cancer-type filtering, ancestry-stratified enrichment, TCGA comparison, and full methodology.
+The easiest way to explore the results is through the [live dashboard](https://germline-predisposition.vercel.app). It includes an overview of the study, interactive results tables with cancer-type filtering, ancestry-stratified enrichment, TCGA comparison, and full methodology.
 
 Alternatively, the CSV files in `results/` contain all aggregate statistics and can be loaded in Python, R, or any spreadsheet tool.
 
