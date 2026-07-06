@@ -7,7 +7,7 @@ A pan-cancer analysis of inherited pathogenic variants across 44 cancer predispo
 **Author:** Md Mohibul Alam
 **Supervisor:** Dr. Kuang-Lin Huang
 
-**Live Dashboard:** [pan-cancer-germline-predisposition.vercel.app](https://pan-cancer-germline-predisposition.vercel.app)
+**Live Dashboard:** [germline-predisposition.vercel.app](https://germline-predisposition.vercel.app)
 
 ---
 
@@ -157,7 +157,7 @@ Each of the 20 gene–cancer associations reported by Huang et al. was tested fo
 
 ### Viewing the Results
 
-The easiest way to explore the results is through the [live dashboard](https://pan-cancer-germline-predisposition.vercel.app): study overview, interactive results tables with category and cancer-type filtering, ancestry-stratified enrichment, TCGA replication, and full methodology. The CSV files in the repository root contain all aggregate statistics and can be loaded in Python, R, or any spreadsheet tool.
+The easiest way to explore the results is through the [live dashboard](https://germline-predisposition.vercel.app): study overview, interactive results tables with category and cancer-type filtering, ancestry-stratified enrichment, TCGA replication, and full methodology. The CSV files in the repository root contain all aggregate statistics and can be loaded in Python, R, or any spreadsheet tool.
 
 ### Running the Dashboard Locally
 
