@@ -1,0 +1,21 @@
+cancer,gene,adj_OR,adj_p,fdr_p,fdr_significant,status
+Breast,BRCA1,14.79,2.381433e-35,3.214934e-33,True,Replicated
+Breast,BRCA2,10.94,1.808725e-36,4.883557e-34,True,Replicated
+Breast,ATM,1.67,0.01147804,N/A,False,Nominally significant (missed FDR)
+Breast,CHEK2,2.29,0.01787552,N/A,False,Nominally significant (missed FDR)
+Breast,PALB2,6.62,5.141644e-10,1.957202e-08,True,Replicated
+Breast,TP53,3.7,0.01992647,N/A,False,Nominally significant (missed FDR)
+Ovarian,BRCA1,25.58,3.486626e-32,3.137963e-30,True,Replicated
+Ovarian,BRCA2,10.93,2.469518e-21,1.666925e-19,True,Replicated
+Ovarian,RAD51C,9.59,0.000447568,0.00503514,True,Replicated
+Ovarian,RAD51D,4.32,0.02707261,N/A,False,Nominally significant (missed FDR)
+Ovarian,ATM,N/A,N/A,N/A,False,Not significant
+Colorectal,APC,28.51,1.456502e-09,4.369506e-08,True,Replicated
+Colorectal,MLH1,53.99,1.220882e-16,6.592764e-15,True,Replicated
+Colorectal,MSH2,37.78,4.525288e-10,1.957202e-08,True,Replicated
+Colorectal,MSH6,4.43,1.386637e-06,2.202305e-05,True,Replicated
+Colorectal,PMS2,2.64,0.01462026,N/A,False,Nominally significant (missed FDR)
+Prostate,BRCA2,4.04,9.195836e-07,1.551797e-05,True,Replicated
+Prostate,ATM,2.66,0.001539308,0.01385377,True,Replicated
+Kidney,VHL,67.01,2.625137e-07,5.062765e-06,True,Replicated
+Kidney,FH,77.57,5.799116e-10,1.957202e-08,True,Replicated

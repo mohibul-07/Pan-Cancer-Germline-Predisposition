@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local-only research artifacts (not published)
+notebooks/
+adjusted_enrichment_results.csv
+ancestry_enrichment.csv

@@ -1,0 +1,18 @@
+{
+  "total_participants": 61044,
+  "cancer_cases": 31044,
+  "controls": 30000,
+  "genes_analyzed": 44,
+  "cancer_types": 9,
+  "significant_associations": 35,
+  "replicated": 8,
+  "novel": 3,
+  "suggestive": 24,
+  "high_confidence": 11,
+  "huang_total": 20,
+  "huang_replicated_fdr": 14,
+  "huang_replicated_pct": 70,
+  "huang_nominal_only": ["Breast-ATM", "Breast-CHEK2", "Breast-TP53", "Ovarian-RAD51D", "Colorectal-PMS2"],
+  "huang_not_significant": ["Ovarian-ATM"],
+  "ancestry_groups": ["White", "Black/AA", "Hispanic/Latino", "Asian"]
+}
